@@ -1,0 +1,55 @@
+Journey_Day
+Journey_Month
+Journey_DayOfWeek
+Is_Weekend
+Dep_Hour
+Dep_Minute
+Duration_Minutes
+Duration_Hours
+Is_Outlier
+Route_Stops_Count
+Route_Stops_Match
+Is_Peak_Time
+Is_Holiday_Season
+Is_Long_Haul
+Duration_Per_Stop
+Is_Budget_Airline
+Is_Premium_Airline
+Duration_Stops_Interaction
+Weekend_Peak_Interaction
+Total_Stops_Encoded
+Airline_Air India
+Airline_GoAir
+Airline_IndiGo
+Airline_Jet Airways
+Airline_Jet Airways Business
+Airline_Multiple carriers
+Airline_Multiple carriers Premium economy
+Airline_SpiceJet
+Airline_Trujet
+Airline_Vistara
+Airline_Vistara Premium economy
+Source_Chennai
+Source_Delhi
+Source_Kolkata
+Source_Mumbai
+Destination_Cochin
+Destination_Delhi
+Destination_Hyderabad
+Destination_Kolkata
+Destination_New Delhi
+Dep_Time_Category_Early Morning (00:00-06:00)
+Dep_Time_Category_Evening/Night (18:00-24:00)
+Dep_Time_Category_Morning (06:00-12:00)
+Duration_Category_Medium (5-10h)
+Duration_Category_Short (2-5h)
+Duration_Category_Very Long (>15h)
+Duration_Category_Very Short (<2h)
+Additional_Info_Simplified_Layover
+Additional_Info_Simplified_No Meal
+Additional_Info_Simplified_Standard
+Dep_Hour_Category_Early Morning
+Dep_Hour_Category_Evening
+Dep_Hour_Category_Late Night
+Dep_Hour_Category_Morning
+Dep_Hour_Category_Night

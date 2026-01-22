@@ -1,0 +1,56 @@
+Feature,Importance
+Is_Outlier,0.3764825
+Airline_Jet Airways Business,0.17690445
+Duration_Stops_Interaction,0.085461356
+Is_Budget_Airline,0.05864638
+Is_Premium_Airline,0.0585418
+Airline_Jet Airways,0.033196338
+Total_Stops_Encoded,0.019161126
+Destination_New Delhi,0.018005969
+Route_Stops_Count,0.017504957
+Additional_Info_Simplified_Standard,0.015089115
+Additional_Info_Simplified_No Meal,0.012375523
+Airline_Multiple carriers,0.009273422
+Additional_Info_Simplified_Layover,0.007318399
+Source_Mumbai,0.0067147096
+Destination_Hyderabad,0.0057249567
+Duration_Minutes,0.0054768273
+Source_Delhi,0.00517794
+Airline_GoAir,0.0050327205
+Source_Kolkata,0.004970834
+Airline_Air India,0.0049140444
+Airline_Vistara,0.0047229445
+Duration_Per_Stop,0.0043919072
+Is_Holiday_Season,0.0042493045
+Journey_Month,0.003992374
+Destination_Cochin,0.003935772
+Airline_IndiGo,0.003923615
+Duration_Hours,0.0037889585
+Dep_Time_Category_Morning (06:00-12:00),0.0033752376
+Dep_Hour_Category_Late Night,0.0032521638
+Dep_Time_Category_Evening/Night (18:00-24:00),0.0031343554
+Airline_SpiceJet,0.00295868
+Journey_Day,0.0028104533
+Dep_Hour_Category_Evening,0.0025898477
+Is_Long_Haul,0.0025396694
+Dep_Hour_Category_Early Morning,0.0024679082
+Destination_Kolkata,0.0022325416
+Dep_Hour_Category_Morning,0.0021882865
+Dep_Minute,0.0018650453
+Source_Chennai,0.0016113634
+Dep_Time_Category_Early Morning (00:00-06:00),0.001609765
+Dep_Hour,0.0015421525
+Airline_Multiple carriers Premium economy,0.0015397368
+Is_Peak_Time,0.0015195033
+Journey_DayOfWeek,0.0014740427
+Is_Weekend,0.0011645897
+Dep_Hour_Category_Night,0.0010983553
+Weekend_Peak_Interaction,0.0010115635
+Duration_Category_Medium (5-10h),0.00066416786
+Airline_Vistara Premium economy,0.0006419587
+Destination_Delhi,0.0005311733
+Duration_Category_Very Long (>15h),0.0004710616
+Airline_Trujet,0.00042803583
+Duration_Category_Short (2-5h),0.00030019763
+Route_Stops_Match,0.0
+Duration_Category_Very Short (<2h),0.0
